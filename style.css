@@ -1,0 +1,9 @@
+.div_1, .div_2{
+    padding: 10px;
+    float: none;
+    background: rgb(189, 39, 39);
+    border-radius: 15px;
+    }
+    body{
+        background-color: rgb(255, 255, 255);
+    }
